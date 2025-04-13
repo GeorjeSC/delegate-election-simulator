@@ -1,12 +1,19 @@
-# React + Vite
+# Delegate Election Simulator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un proyecto web para simular la elección de delegados en una votación. La aplicación permite registrar candidatos, ingresar puntos o votos, y luego mostrar los resultados.
 
-Currently, two official plugins are available:
+## 🛠️ Tecnologías utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: Para construir la interfaz de usuario (UI).
+- **Vite**: Herramienta de construcción rápida para desarrollo.
+- **CSS**: Para el diseño y los estilos básicos.
 
-## Expanding the ESLint configuration
+## ⚙️ Instalación
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clona este repositorio:
+
+   ```bash
+   git clone https://github.com/tuusuario/delegate-election-simulator.git
+
+📄 Licencia
+Este proyecto es de código abierto bajo la licencia MIT.
