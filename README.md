@@ -14,3 +14,7 @@ Este es un proyecto web para simular la elección de delegados en una votación.
 
    ```bash
    git clone https://github.com/tuusuario/delegate-election-simulator.git
+
+📄 Licencia
+Este proyecto es de código abierto bajo la licencia MIT.
+
